@@ -10,15 +10,11 @@ body {
   backround-color: white;
   border-radius: 15px; /* Membuat sudut menjadi melengkung */ 
   box-shadow: 0 px 8 px rgba(0,0,0,0,1);/* Efek bayangan */ 
+  text-align: center;
 }
-
-  
 
 .kartu-profil img {
   width:  150px;
   border-radius: 50%; /* Trik untuk membuat gambar persegi menjadi lingkaran sempurna */ 
 }
-.kartu-profil {
-  /* ...(kode dari slide sebelumnya)...*/
-  text-align: center; /: Menengahkan semua teks di dalam kartu */
-}
+
