@@ -9,7 +9,7 @@ body {
   padding: 20px;
   background-color: white;
   border-radius: 15px; /* Membuat sudut menjadi melengkung */ 
-  box-shadow: 0 px 8 px rgba(0,0,0,0,1);/* Efek bayangan */ 
+  box-shadow: 0 px 8 px rgba(0,0,0,0.1);/* Efek bayangan */ 
   text-align: center;
 }
 
